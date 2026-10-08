@@ -8,4 +8,5 @@ Deep-learning classifier for 8 blood cell types from microscopy images, comparin
 | Fine-tuned ResNet18 | 0.977 |
 
 **Where it struggles:** immature granulocytes (recall 0.91, 91%) and monocytes (precision 0.87, 87%).
+
 **Where it thrives:** platelet and eosinophil (precision, 100%) (recall, 100%)  (f1-score, 100%).
