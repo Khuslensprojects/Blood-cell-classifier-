@@ -1,2 +1,2 @@
 # Blood-cell-classifier-
-Identifying different blood and immune cells using the power of AI. Differentiating the difference between cancer and normal blood cells and early prediction. (EARLY)
+Deep-learning classifier for 8 blood cell types from microscopy images, comparing a pixel-based baseline against a fine-tuned ResNet18. Includes error analysis and model interpretability (Grad-CAM).
